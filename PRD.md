@@ -12,7 +12,7 @@
 
 | Name | Matric Number |
 |---|---|
-| Bola-Jimoh Bright Oluwakunmi | 25/0306 |
+| Bola-Jimoh Bright Oluwakunmi.. | 25/0306 |
 | Bwala Grace Simon | 25/1296 |
 | Chinedu Ifemsinachi Alex | 25/0466 |
 | Chijoke Miracle | 25/0477 |
