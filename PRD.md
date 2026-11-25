@@ -105,7 +105,7 @@ h. Delivery management (constantly checking on the delivery process until it has
 The document describes the process as the following sequence:
 
 1. Student logs in.
-2. Decides if They want to Order or be Delivery Personeeel.
+2. Decides if They want to Order or be Delivery Personeel.
 3. Student browses for a product.
 4. Student adds items to cart.
 5. Student places an order and pays.
